@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="mx-auto pt-8 bg-black h-screen">
       <Sidebar/>
-      <h1 className='text-4xl text-center'>Main Content</h1>
+      <h1 className='text-4xl text-white text-center'>Main Content</h1>
     </div>
   );
 }
